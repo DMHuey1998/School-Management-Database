@@ -1,0 +1,26 @@
+C:\Users\Carl\source\repos\Project 2\Project 2\bin\Debug\Student.mdf
+C:\Users\Carl\source\repos\Project 2\Project 2\bin\Debug\Student_log.ldf
+C:\Users\Carl\source\repos\Project 2\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\Carl\source\repos\Project 2\Project 2\bin\Debug\Project 2.exe
+C:\Users\Carl\source\repos\Project 2\Project 2\bin\Debug\Project 2.pdb
+C:\Users\Carl\source\repos\Project 2\Project 2\obj\Debug\Project 2.csprojAssemblyReference.cache
+C:\Users\Carl\source\repos\Project 2\Project 2\obj\Debug\Project_2.Form_login.resources
+C:\Users\Carl\source\repos\Project 2\Project 2\obj\Debug\Project_2.Form_main.resources
+C:\Users\Carl\source\repos\Project 2\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\Carl\source\repos\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+C:\Users\Carl\source\repos\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\Carl\source\repos\Project 2\Project 2\obj\Debug\Project 2.exe
+C:\Users\Carl\source\repos\Project 2\Project 2\obj\Debug\Project 2.pdb
+C:\Users\Carl\Desktop\csci2441w\Lab7\Example\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\Carl\Desktop\csci2441w\Lab7\Example\Project 2\bin\Debug\Project 2.exe
+C:\Users\Carl\Desktop\csci2441w\Lab7\Example\Project 2\bin\Debug\Project 2.pdb
+C:\Users\Carl\Desktop\csci2441w\Lab7\Example\Project 2\obj\Debug\Project 2.csprojAssemblyReference.cache
+C:\Users\Carl\Desktop\csci2441w\Lab7\Example\Project 2\obj\Debug\Project_2.Form_login.resources
+C:\Users\Carl\Desktop\csci2441w\Lab7\Example\Project 2\obj\Debug\Project_2.Form_main.resources
+C:\Users\Carl\Desktop\csci2441w\Lab7\Example\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\Carl\Desktop\csci2441w\Lab7\Example\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+C:\Users\Carl\Desktop\csci2441w\Lab7\Example\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\Carl\Desktop\csci2441w\Lab7\Example\Project 2\obj\Debug\Project 2.exe
+C:\Users\Carl\Desktop\csci2441w\Lab7\Example\Project 2\obj\Debug\Project 2.pdb
+C:\Users\Carl\Desktop\csci2441w\Lab7\Example\Project 2\bin\Debug\university.mdf
+C:\Users\Carl\Desktop\csci2441w\Lab7\Example\Project 2\bin\Debug\university_log.ldf
